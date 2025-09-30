@@ -87,20 +87,49 @@ php artisan storage:link
 php artisan serve
 ```
 
-### Dashboard Arsip Surat
+## Screenshot
+
+### Menu Arsip Surat
 *Halaman utama dengan daftar arsip surat, fitur pencarian, dan tombol aksi*
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-18-33.png
+Pencarian
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-49.png
 
-### Form Upload Surat
+### Form Tambah Arsip
 *Form untuk mengarsipkan surat baru dengan dropdown kategori dan upload PDF*
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-25-12.png
 
-### Detail Arsip
+Berhasil disimpan
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-25-42.png
+
+### Detail dan Edit Arsip 
 *Halaman detail dengan preview PDF dan informasi lengkap surat*
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-25-56.png
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-05.png
+
+### Alert Hapus
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-26.png
 
 ### Manajemen Kategori
 *Halaman untuk mengelola kategori surat*
 
+
 ### Halaman About
 *Informasi pembuat aplikasi*
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-57.png
+
+### Tambah kategori 
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-27-35.png
+
+### Kategori berhasil ditambah
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-27-45.png
+
+### Edit kategori
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-27-56.png
+
+### About
+https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-28-12.png
+
 
 ## Pembuat
 
