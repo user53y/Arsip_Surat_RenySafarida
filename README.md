@@ -9,12 +9,12 @@ Aplikasi web untuk mengelola arsip surat digital menggunakan Laravel dan Bootstr
 - Memudahkan pencarian dan akses dokumen surat
 - Mengoptimalkan penyimpanan dan pengorganisasian file PDF
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 ### Manajemen Arsip Surat
-- **Upload File PDF**: Upload dokumen surat dalam format PDF (max 2MB)
-- **Kategorisasi**: Pengelompokan surat berdasarkan kategori (Undangan, Pengumuman, Nota Dinas, Pemberitahuan)
-- **Pencarian**: Cari surat berdasarkan judul dengan fitur search real-time
+- **Upload File PDF**: Upload dokumen surat dalam format PDF
+- **Kategorisasi**: Pengelompokan surat berdasarkan kategori
+- **Pencarian**: Cari surat berdasarkan judul dengan fitur search
 - **Preview PDF**: Tampilan preview dokumen PDF langsung di browser
 - **Download**: Unduh file PDF ke perangkat pengguna
 - **CRUD Operations**: Create, Read, Update, Delete arsip surat
@@ -30,9 +30,7 @@ Aplikasi web untuk mengelola arsip surat digital menggunakan Laravel dan Bootstr
 - Pencarian kategori berdasarkan nama kategori
 - Filter dan reset pencarian
 
-### 🛡️ Validasi dan Keamanan
-- Validasi form input dengan Laravel Validation
-- CSRF protection
+
 
 ## 🚀 Cara Menjalankan
 
@@ -104,9 +102,9 @@ php artisan serve
 ### Halaman About
 *Informasi pembuat aplikasi*
 
-## 👨‍💻 Pembuat
+## Pembuat
 
-**Reni Safarida**
+**Nama : Reny Safarida**
 - NIM: 2331730040
 - Prodi: Manajemen Informatika
 - Tanggal: 30 September 2025
