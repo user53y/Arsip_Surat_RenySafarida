@@ -86,54 +86,47 @@ php artisan storage:link
 # Development server
 php artisan serve
 ```
-
 ## Screenshot
 
 ### Menu Arsip Surat
 *Halaman utama dengan daftar arsip surat, fitur pencarian, dan tombol aksi*
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-18-33.png
-Pencarian
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-49.png
+
+![Menu Arsip Surat](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-18-33.png)
+
+**Pencarian**
+![Pencarian](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-49.png)
 
 ### Form Tambah Arsip
 *Form untuk mengarsipkan surat baru dengan dropdown kategori dan upload PDF*
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-25-12.png
 
-Berhasil disimpan
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-25-42.png
+![Form Tambah Arsip](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-25-12.png)
+
+**Berhasil disimpan**  
+![Berhasil disimpan](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-25-42.png)
 
 ### Detail dan Edit Arsip 
 *Halaman detail dengan preview PDF dan informasi lengkap surat*
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-25-56.png
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-05.png
+
+![Detail Arsip](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-25-56.png)
+![Edit Arsip](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-05.png)
 
 ### Alert Hapus
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-26.png
+![Alert Hapus](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-26.png)
 
 ### Manajemen Kategori
 *Halaman untuk mengelola kategori surat*
 
+![Halaman About](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-57.png)
 
-### Halaman About
-*Informasi pembuat aplikasi*
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-26-57.png
+**Tambah kategori**  
+![Tambah Kategori](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-27-35.png)
 
-### Tambah kategori 
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-27-35.png
+**Kategori berhasil ditambah**  
+![Kategori berhasil ditambah](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-27-45.png)
 
-### Kategori berhasil ditambah
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-27-45.png
-
-### Edit kategori
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-27-56.png
+**Edit kategori**  
+![Edit Kategori](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-27-56.png)
 
 ### About
-https://github.com/user53y/Arsip_Surat_RenySafarida/blob/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-28-12.png
+![About](https://raw.githubusercontent.com/user53y/Arsip_Surat_RenySafarida/7ba49696b1e87ee2e51695db15e095fe8b5b891b/Snipaste_2025-10-01_00-28-12.png)
 
-
-## Pembuat
-
-**Nama : Reny Safarida**
-- NIM: 2331730040
-- Prodi: Manajemen Informatika
-- Tanggal: 30 September 2025
